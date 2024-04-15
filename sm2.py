@@ -2,6 +2,7 @@ import math
 import sys
 import random
 
+#global variables
 IDLE = 0
 BUSY = 1
 Q_LIMIT = 100
